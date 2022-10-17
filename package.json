@@ -1,0 +1,26 @@
+{
+  "name": "supercias_playwright",
+  "version": "1.0.0",
+  "description": "This is scrapper fro the susper Cias website using pplaywright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoranTopic/SuperCias_Playwright.git"
+  },
+  "keywords": [
+    "scrapper",
+    "data",
+    "mining",
+    "playwright",
+    "nodejs"
+  ],
+  "author": "Goran Topic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoranTopic/SuperCias_Playwright/issues"
+  },
+  "homepage": "https://github.com/GoranTopic/SuperCias_Playwright#readme"
+}
